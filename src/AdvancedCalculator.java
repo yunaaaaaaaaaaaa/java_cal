@@ -1,4 +1,3 @@
-// 계산기 v2.0 관련 클래스
 
 public class AdvancedCalculator extends Calculator {
     // 계산기 v2.0 곱하기 기능 개발 완료
