@@ -11,7 +11,6 @@ public class Main {
         calc_mul.setNumbers(10, 2);
         calc_mul.multiply();
         calc_mul.displayResult("*");
-
-        //dfd
+        
     }
 }
