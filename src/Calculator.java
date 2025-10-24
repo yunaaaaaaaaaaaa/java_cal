@@ -43,6 +43,13 @@ public class Calculator {
         return result;
     }
 
+    public int mod() {
+        result = 0;
+
+        result = num1 % num2;
+        return result;
+    }
+
     public void displayResult(String operator) {
         System.out.println(num1 + " " + operator + " " + num2 + " = " + result);
     }
